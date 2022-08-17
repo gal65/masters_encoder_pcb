@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>\\file\Usersg$\gal65\Home\My Documents\~Masters\Encoder PCB\encoder\encoder.kicad_sch</source>
+    <date>16/08/2022 3:58:10 pm</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>encoder.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC1">
+      <value>AS5600-ASOT</value>
+      <footprint>SOIC127P600X175-8N</footprint>
+      <fields>
+        <field name="ARROW_PART_NUMBER">AS5600-ASOT</field>
+        <field name="ARROW_PRICE-STOCK">https://www.arrow.com/en/products/as5600-asot/ams-ag?region=nac</field>
+        <field name="DESCRIPTION">Board Mount Hall Effect / Magnetic Sensors AS5600 Magnetic Sensor 12-Bit</field>
+        <field name="HEIGHT">1.75mm</field>
+        <field name="MANUFACTURER_NAME">ams</field>
+        <field name="MANUFACTURER_PART_NUMBER">AS5600-ASOT</field>
+        <field name="MOUSER_PART_NUMBER">985-AS5600-ASOT</field>
+        <field name="MOUSER_PRICE-STOCK">https://www.mouser.co.uk/ProductDetail/ams/AS5600-ASOT?qs=KTMMzrZdriGJpjhsnAEYBA%3D%3D</field>
+      </fields>
+      <libsource lib="AS5600" part="AS5600-ASOT" description=""/>
+      <property name="HEIGHT" value="1.75mm"/>
+      <property name="MOUSER_PART_NUMBER" value="985-AS5600-ASOT"/>
+      <property name="ARROW_PRICE-STOCK" value="https://www.arrow.com/en/products/as5600-asot/ams-ag?region=nac"/>
+      <property name="ARROW_PART_NUMBER" value="AS5600-ASOT"/>
+      <property name="DESCRIPTION" value="Board Mount Hall Effect / Magnetic Sensors AS5600 Magnetic Sensor 12-Bit"/>
+      <property name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/ams/AS5600-ASOT?qs=KTMMzrZdriGJpjhsnAEYBA%3D%3D"/>
+      <property name="MANUFACTURER_NAME" value="ams"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="AS5600-ASOT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24a95fbf-4057-46f5-98d1-74e3ffe85441</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04_Female</value>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3a4f4df-7d8a-4852-9750-2af506d477a7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AS5600" part="AS5600-ASOT">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AS5600-ASOT</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="HEIGHT">1.75mm</field>
+        <field name="MOUSER_PART_NUMBER">985-AS5600-ASOT</field>
+        <field name="ARROW_PRICE-STOCK">https://www.arrow.com/en/products/as5600-asot/ams-ag?region=nac</field>
+        <field name="ARROW_PART_NUMBER">AS5600-ASOT</field>
+        <field name="DESCRIPTION">Board Mount Hall Effect / Magnetic Sensors AS5600 Magnetic Sensor 12-Bit</field>
+        <field name="MOUSER_PRICE-STOCK">https://www.mouser.co.uk/ProductDetail/ams/AS5600-ASOT?qs=KTMMzrZdriGJpjhsnAEYBA%3D%3D</field>
+        <field name="MANUFACTURER_NAME">ams</field>
+        <field name="MANUFACTURER_PART_NUMBER">AS5600-ASOT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD5V" type="bidirectional"/>
+        <pin num="2" name="VDD3V3" type="bidirectional"/>
+        <pin num="3" name="OUT" type="bidirectional"/>
+        <pin num="4" name="GND" type="bidirectional"/>
+        <pin num="5" name="PGO" type="bidirectional"/>
+        <pin num="6" name="SDA" type="bidirectional"/>
+        <pin num="7" name="SCL" type="bidirectional"/>
+        <pin num="8" name="DIR" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Female">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J?</field>
+        <field name="Value">Conn_01x04_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="GND" name="Pin_2" type="passive"/>
+        <pin num="SCL" name="Pin_4" type="passive"/>
+        <pin num="SDA" name="Pin_3" type="passive"/>
+        <pin num="VDD" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="AS5600">
+      <uri>\\file\Usersg$\gal65\Home\My Documents\~Masters\AS5600-ASOT\AS5600-ASOT.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="unconnected-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="VDD5V" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="unconnected-(IC1-Pad2)">
+      <node ref="IC1" pin="2" pinfunction="VDD3V3" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="unconnected-(IC1-Pad3)">
+      <node ref="IC1" pin="3" pinfunction="OUT" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="unconnected-(IC1-Pad4)">
+      <node ref="IC1" pin="4" pinfunction="GND" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="unconnected-(IC1-Pad5)">
+      <node ref="IC1" pin="5" pinfunction="PGO" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="unconnected-(IC1-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="unconnected-(IC1-Pad7)">
+      <node ref="IC1" pin="7" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="unconnected-(IC1-Pad8)">
+      <node ref="IC1" pin="8" pinfunction="DIR" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="unconnected-(J1-PadGND)">
+      <node ref="J1" pin="GND" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(J1-PadSCL)">
+      <node ref="J1" pin="SCL" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(J1-PadSDA)">
+      <node ref="J1" pin="SDA" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(J1-PadVDD)">
+      <node ref="J1" pin="VDD" pintype="passive"/>
+    </net>
+  </nets>
+</export>
