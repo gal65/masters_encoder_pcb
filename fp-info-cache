@@ -1,522 +1,11 @@
-20488432690873324
-Audio_Module
-Reverb_BTDR-1H
-Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
-audio belton reverb
-0
-7
-7
-Audio_Module
-Reverb_BTDR-1V
-Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
-audio belton reverb
-0
-7
-7
-Battery
-BatteryHolder_Bulgin_BX0036_1xC
-Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
-Bulgin BX0036
-0
-2
-2
-Battery
-BatteryHolder_ComfortableElectronic_CH273-2450_1x2450
-Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148
-Comfortable Electronic CR2450
-0
-2
-2
-Battery
-BatteryHolder_Eagle_12BH611-GR
-https://eu.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf
-9V Battery Holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_103_1x20mm
-http://www.keyelco.com/product-pdf.cfm?p=719
-Keystone type 103 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_104_1x23mm
-http://www.keyelco.com/product-pdf.cfm?p=744
-Keystone type 104 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_105_1x2430
-http://www.keyelco.com/product-pdf.cfm?p=745
-Keystone type 105 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_106_1x20mm
-http://www.keyelco.com/product-pdf.cfm?p=720
-Keystone type 106 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_107_1x23mm
-http://www.keyelco.com/product-pdf.cfm?p=746
-Keystone type 107 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_500
-Keystone #500, CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710
-CR1220 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_1042_1x18650
-Battery holder for 18650 cylindrical cells http://www.keyelco.com/product.cfm/product_id/918
-18650 Keystone 1042 Li-ion
-0
-2
-2
-Battery
-BatteryHolder_Keystone_1058_1x2032
-http://www.keyelco.com/product-pdf.cfm?p=14028
-Keystone type 1058 coin cell retainer
-0
-2
-2
-Battery
-BatteryHolder_Keystone_1060_1x2032
-http://www.keyelco.com/product-pdf.cfm?p=726
-CR2032 BR2032 BatteryHolder Battery
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2460_1xAA
-https://www.keyelco.com/product-pdf.cfm?p=1025
-AA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2462_2xAA
-2xAA cell battery holder, Keystone P/N 2462, https://www.keyelco.com/product-pdf.cfm?p=1027
-AA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2466_1xAAA
-1xAAA Battery Holder, Keystone, Plastic Case, http://www.keyelco.com/product-pdf.cfm?p=1031
-AAA battery holder Keystone
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2468_2xAAA
-2xAAA cell battery holder, Keystone P/N 2468, http://www.keyelco.com/product-pdf.cfm?p=1033
-AAA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2479_3xAAA
-Keystone Battery Holder, 2479, Battery Type 3xAAA (Script generated with StandardBox.py) (Keystone Battery Holder, 2479, Battery Type 3xAAA)
-Keystone Battery Holder 2479 Battery Type 3xAAA
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2993
-http://www.keyelco.com/product-pdf.cfm?p=776
-Keystone type 2993 negative battery contact
-0
-1
-1
-Battery
-BatteryHolder_Keystone_2998_1x6.8mm
-www.keyelco.com/product-pdf.cfm?p=763
-Keystone type 2998 battery holder
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3000_1x12mm
-http://www.keyelco.com/product-pdf.cfm?p=777
-Keystone type 3000 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3001_1x12mm
-http://www.keyelco.com/product-pdf.cfm?p=778
-Keystone type 3001 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3002_1x2032
-https://www.tme.eu/it/Document/a823211ec201a9e209042d155fe22d2b/KEYS2996.pdf
-BR2016 CR2016 DL2016 BR2020 CL2020 BR2025 CR2025 DL2025 DR2032 CR2032 DL2032
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3008_1x2450
-http://www.keyelco.com/product-pdf.cfm?p=786
-Keystone type 3008 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3009_1x2450
-http://www.keyelco.com/product-pdf.cfm?p=787
-Keystone type 3009 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3034_1x20mm
-Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
-Keystone type 3034 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_LINX_BAT-HLD-012-SMT
-SMT battery holder for CR1216/1220/1225, https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf
-battery holder coin cell cr1216 cr1220 cr1225
-0
-3
-2
-Battery
-BatteryHolder_MPD_BA9VPC_1xPP3
-1xPP3 (9V) battery holder, Memory Protection Devices P/N BA9VPC, http://www.memoryprotectiondevices.com/datasheets/BA9VPC-datasheet.pdf
-PP3 Battery Holder BA9VPC 9V
-0
-2
-2
-Battery
-BatteryHolder_MPD_BC2AAPC_2xAA
-2xAA cell battery holder, Memory Protection Devices P/N BC2AAPC, http://www.memoryprotectiondevices.com/datasheets/BC2AAPC-datasheet.pdf
-AA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_MPD_BC12AAPC_2xAA
-2xAA cell battery holder, Memory Protection Devices P/N BC12AAPC, http://www.memoryprotectiondevices.com/datasheets/BC12AAPC-datasheet.pdf
-AA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_MPD_BC2003_1x2032
-http://www.memoryprotectiondevices.com/datasheets/BC-2003-datasheet.pdf
-BC2003 CR2032 2032 Battery Holder
-0
-3
-2
-Battery
-BatteryHolder_MPD_BH-18650-PC2
-18650 Battery Holder (http://www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)
-18650 Battery Holder
-0
-2
-2
-Battery
-BatteryHolder_Seiko_MS621F
-Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
-Seiko MS621F
-0
-2
-2
-Battery
-BatteryHolder_TruPower_BH-331P_3xAA
-Keystone Battery Holder BH-331P Battery Type 3xAA (Script generated with StandardBox.py) (Keystone Battery Holder BH-331P Battery Type 3xAA)
-Battery Holder BH-331P Battery Type 3xAA
-0
-2
-2
-Battery
-Battery_CR1225
-CR1225 battery
-battery CR1225 coin cell
-0
-0
-0
-Battery
-Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
-Panasonic CR-1025/VSK battery
-battery CR-1025 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR1220-VCN_Vertical_CircularHoles
-Panasonic CR-1220/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.PDF
-battery CR-1220 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles
-Panasonic CR-1632-V1AN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D464.PDF
-battery CR-1632 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles
-Panasonic CR-2025/V1AK battery,
-battery CR-2025 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR2032-VS1N_Vertical_CircularHoles
-Panasonic CR-2032/VS1N battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D348.PDF
-battery CR-2032 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles
-Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D486.PDF
-battery CR-2354/VCN coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR2450-VAN_Vertical_CircularHoles
-Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D492.PDF
-battery CR-2450 coin cell
-0
-2
-2
-Battery
-Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
-Panasonic CR-2477/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D502.PDF
-battery CR-2477 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
-Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
-battery CR-3032 coin cell vertical
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.00u_PCB
-Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.00u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.00u_Plate
-Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.00u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.25u_PCB
-Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.25u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.25u_Plate
-Cherry MX keyswitch, 1.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.25u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.50u_PCB
-Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.50u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.50u_Plate
-Cherry MX keyswitch, 1.50u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.50u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.75u_PCB
-Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.75u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.75u_Plate
-Cherry MX keyswitch, 1.75u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.75u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.00u_PCB
-Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.00u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.00u_Plate
-Cherry MX keyswitch, 2.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.00u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.00u_Vertical_PCB
-Cherry MX keyswitch, 2.00u, vertical, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.00u vertical PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.00u_Vertical_Plate
-Cherry MX keyswitch, 2.00u, vertical, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.00u vertical plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.25u_PCB
-Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.25u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.25u_Plate
-Cherry MX keyswitch, 2.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.25u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.75u_PCB
-Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.75u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.75u_Plate
-Cherry MX keyswitch, 2.75u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.75u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_6.25u_PCB
-Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 6.25u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_6.25u_Plate
-Cherry MX keyswitch, 6.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 6.25u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_ISOEnter_PCB
-Cherry MX keyswitch, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch ISO enter PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_ISOEnter_Plate
-Cherry MX keyswitch, ISO Enter, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch ISO enter plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Matias_1.00u
-Matias/ALPS keyswitch, 1.00u, http://matias.ca/switches/
-Matias ALPS keyswitch 1.00u
-0
-2
-2
-Button_Switch_Keyboard
-SW_Matias_1.25u
-Matias/ALPS keyswitch, 1.25u, http://matias.ca/switches/
-Matias ALPS keyswitch 1.25u
-0
-2
-2
-Button_Switch_Keyboard
-SW_Matias_1.50u
-Matias/ALPS keyswitch, 1.50u, http://matias.ca/switches/
-Matias ALPS keyswitch 1.50u
-0
-2
-2
-Button_Switch_Keyboard
-SW_Matias_1.75u
-Matias/ALPS keyswitch, 1.75u, http://matias.ca/switches/
-Matias ALPS keyswitch 1.75u
-0
-2
-2
-Button_Switch_Keyboard
-SW_Matias_2.00u
-Matias/ALPS keyswitch, 2.00u, http://matias.ca/switches/
-Matias ALPS keyswitch 2.00u
-0
-2
-2
-Button_Switch_Keyboard
-SW_Matias_2.25u
-Matias/ALPS keyswitch, 2.25u, http://matias.ca/switches/
-Matias ALPS keyswitch 2.25u
-0
-2
-2
-Button_Switch_Keyboard
-SW_Matias_2.75u
-Matias/ALPS keyswitch, 2.75u, http://matias.ca/switches/
-Matias ALPS keyswitch 2.75u
-0
-2
-2
-Button_Switch_Keyboard
-SW_Matias_6.25u
-Matias/ALPS keyswitch, 6.25u, http://matias.ca/switches/
-Matias ALPS keyswitch 6.25u
-0
-2
-2
-Button_Switch_Keyboard
-SW_Matias_ISOEnter
-Matias/ALPS keyswitch, ISO Enter, http://matias.ca/switches/
-Matias ALPS keyswitch ISO enter
-0
-2
-2
+20263852347766732
+AS5600
+SOIC127P600X175-8N
+<b>SOIC-8</b><br>
+
+0
+8
+8
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -10947,6 +10436,237 @@ hdmi micro type d right angle tht smd hybrid
 0
 23
 20
+Connector_Harting
+Harting_har-flexicon_14110213001xxx_1x02-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110213001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+4
+3
+Connector_Harting
+Harting_har-flexicon_14110213002xxx_1x02-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110213002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+4
+3
+Connector_Harting
+Harting_har-flexicon_14110213010xxx_1x02-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110213010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+4
+3
+Connector_Harting
+Harting_har-flexicon_14110313001xxx_1x03-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110313001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+5
+4
+Connector_Harting
+Harting_har-flexicon_14110313002xxx_1x03-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110313002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+5
+4
+Connector_Harting
+Harting_har-flexicon_14110313010xxx_1x03-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110313010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+5
+4
+Connector_Harting
+Harting_har-flexicon_14110413001xxx_1x04-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110413001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+6
+5
+Connector_Harting
+Harting_har-flexicon_14110413002xxx_1x04-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110413002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+6
+5
+Connector_Harting
+Harting_har-flexicon_14110413010xxx_1x04-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110413010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+6
+5
+Connector_Harting
+Harting_har-flexicon_14110513001xxx_1x05-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110513001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+7
+6
+Connector_Harting
+Harting_har-flexicon_14110513002xxx_1x05-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110513002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+7
+6
+Connector_Harting
+Harting_har-flexicon_14110513010xxx_1x05-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110513010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+7
+6
+Connector_Harting
+Harting_har-flexicon_14110613001xxx_1x06-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110613001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+8
+7
+Connector_Harting
+Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110613002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+8
+7
+Connector_Harting
+Harting_har-flexicon_14110613010xxx_1x06-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110613010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+8
+7
+Connector_Harting
+Harting_har-flexicon_14110713001xxx_1x07-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110713001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+9
+8
+Connector_Harting
+Harting_har-flexicon_14110713002xxx_1x07-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110713002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+9
+8
+Connector_Harting
+Harting_har-flexicon_14110713010xxx_1x07-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110713010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+9
+8
+Connector_Harting
+Harting_har-flexicon_14110813001xxx_1x08-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110813001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+10
+9
+Connector_Harting
+Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110813002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+10
+9
+Connector_Harting
+Harting_har-flexicon_14110813010xxx_1x08-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110813010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+10
+9
+Connector_Harting
+Harting_har-flexicon_14110913001xxx_1x09-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110913001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+11
+10
+Connector_Harting
+Harting_har-flexicon_14110913002xxx_1x09-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110913002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+11
+10
+Connector_Harting
+Harting_har-flexicon_14110913010xxx_1x09-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110913010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+11
+10
+Connector_Harting
+Harting_har-flexicon_14111013001xxx_1x10-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14111013001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+12
+11
+Connector_Harting
+Harting_har-flexicon_14111013002xxx_1x10-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111013002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+12
+11
+Connector_Harting
+Harting_har-flexicon_14111013010xxx_1x10-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111013010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+12
+11
+Connector_Harting
+Harting_har-flexicon_14111113001xxx_1x11-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14111113001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+13
+12
+Connector_Harting
+Harting_har-flexicon_14111113002xxx_1x11-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111113002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+13
+12
+Connector_Harting
+Harting_har-flexicon_14111113010xxx_1x11-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111113010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+13
+12
+Connector_Harting
+Harting_har-flexicon_14111213001xxx_1x12-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14111213001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+14
+13
+Connector_Harting
+Harting_har-flexicon_14111213002xxx_1x12-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111213002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+14
+13
+Connector_Harting
+Harting_har-flexicon_14111213010xxx_1x12-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111213010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+14
+13
 Connector_Harwin
 Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical
 Harwin Gecko Connector, 6 pins, dual row female, vertical entry, PN:G125-FVX0605L0X
@@ -84951,6 +84671,76 @@ transformer flyback
 0
 10
 10
+Transistor_Power_Module
+Infineon_AG-ECONO2
+28-lead TH, EconoPACK 2, same as Littelfuse_Package_H_XN2MM, https://www.infineon.com/dgdl/Infineon-FS75R07N2E4-DS-v02_00-en_de.pdf?fileId=db3a30432f5008fe012f52f916333979
+igbt diode module
+0
+28
+28
+Transistor_Power_Module
+Infineon_EasyPIM-1B
+35-lead TH, EasyPIM 1B, https://www.infineon.com/dgdl/Infineon-FP10R06W1E3-DS-v02_01-en_de.pdf?fileId=db3a304412b407950112b43312285a63
+brifge rectifier igbt diode module
+0
+23
+23
+Transistor_Power_Module
+Infineon_EasyPIM-2B
+35-lead TH, EasyPIM 2B, same as ST_ACEPACK-2-CIB, https://www.infineon.com/dgdl/Infineon-FP50R06W2E3-DS-v02_02-EN.pdf?fileId=db3a30431b3e89eb011b455c99987d24
+brifge rectifier igbt diode module
+0
+35
+23
+Transistor_Power_Module
+Littelfuse_Package_H_XBN2MM
+24-lead TH, Package H, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1215h_xbn2mm_datasheet.pdf.pdf
+brifge rectifier igbt diode module
+0
+24
+24
+Transistor_Power_Module
+Littelfuse_Package_H_XN2MM
+28-lead TH, Package H, same as Infineon_AG-ECONO2, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1225h_xn2mm_datasheet.pdf.pdf
+igbt diode module
+0
+28
+28
+Transistor_Power_Module
+Littelfuse_Package_W_XBN2MM
+24-lead TH, Package W, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1250w_xbn2mm_datasheet.pdf.pdf
+brifge rectifier igbt diode module
+0
+35
+24
+Transistor_Power_Module
+Littelfuse_Package_W_XN2MM
+35-lead TH, Package W, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1275w_xn2mm_datasheet.pdf.pdf
+igbt diode module
+0
+35
+35
+Transistor_Power_Module
+ST_ACEPACK-2-CIB
+35-lead TH, ACEPACK 2 CIB, same as Infineon_EasyPIM-2B, https://www.st.com/resource/en/datasheet/a2c25s12m3.pdf
+brifge rectifier igbt diode module
+0
+35
+23
+Transistor_Power_Module
+ST_ACEPACK-2-CIB_PressFIT
+35-lead TH, ACEPACK 2 CIB, PressFIT, https://www.st.com/resource/en/datasheet/a2c50s65m2-f.pdf
+brifge rectifier igbt diode module
+0
+35
+23
+Transistor_Power_Module
+ST_SDIP-25L
+25-lead TH, SDIP-25L, https://www.st.com/resource/en/datasheet/stgips20k60.pdf
+igbt diode module
+0
+25
+25
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -85721,745 +85511,3 @@ varistor SIOV
 0
 2
 2
-miscComponents
-BATTERY_KEYSTONE_2977_LR44x1
-
-
-0
-3
-2
-miscComponents
-BatteryHolder-2032x2-BH800S
-
-
-0
-2
-2
-miscComponents
-BatteryHolder_Keystone_112_spring-negative-smd
-
-
-0
-1
-1
-miscComponents
-BatteryHolder_Keystone_2988_1xSize13
-
-
-0
-3
-2
-miscComponents
-BatteryHolder_Keystone_2996_1xLR44
-
-
-0
-3
-2
-miscComponents
-BatteryHolder_Keystone_2997_LR44x1
-
-
-0
-3
-2
-miscComponents
-CAP-TANT-2824-F720J108MMC
-
-
-0
-2
-2
-miscComponents
-CONN-Molex-FPC-6-5034800600
-
-
-0
-8
-7
-miscComponents
-CONN_MOLEX_24FPC_0512812494
-
-
-0
-26
-25
-miscComponents
-CP_EIA-7343-15-OR-6032-12
-Tantalum Capacitor SMD Kemet-W (7343-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-3
-2
-miscComponents
-Conn-3.5mm-PJ327A
-
-
-0
-9
-8
-miscComponents
-Conn_BARREL_JACK_1x3.5
-DC Barrel Jack
-Power Jack
-0
-3
-3
-miscComponents
-Connector-SMD-FFC-30pin-0.5mmPitch-XF3M-3015-1b
-
-
-0
-32
-31
-miscComponents
-Connector-smd-10x2-95278-101A10LF-2.54p
-
-
-0
-20
-20
-miscComponents
-Connector_FCP_TE_1734742-8_vertical
-
-
-0
-10
-9
-miscComponents
-Crystal_SMD_2016-4pin_2.0x1.6mm
-SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
-SMD SMT crystal
-0
-4
-4
-miscComponents
-DFN-6-1EP_3x3mm_Pitch0.95mm_mine
-DFN6 3*3 MM, 0.95 PITCH; CASE 506AH-01 (see ON Semiconductor 506AH.PDF)
-DFN 0.95
-0
-10
-7
-miscComponents
-DFN_X2-DFN0806-3
-
-
-0
-3
-3
-miscComponents
-DIP-8_W13.97mm_LongPads
-8-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
-THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
-0
-8
-8
-miscComponents
-D_1206_HandSolder_Good
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-miscComponents
-Gauge_50mm_Type1_SilkScreenTop
-Gauge, Massstab, 50mm, SilkScreenTop, Type 1,
-Gauge, Massstab, 50mm, SilkScreenTop, Type 1,
-0
-0
-0
-miscComponents
-ILLUMINATI
-
-
-0
-0
-0
-miscComponents
-Inductor_SMD_Wurth_2.5x2.0_p2.1mm
-
-
-0
-2
-2
-miscComponents
-Inductors_SMD-murata-DEM4518C
-
-
-0
-2
-2
-miscComponents
-JS202011JCQN
-
-
-0
-6
-6
-miscComponents
-Jumper2_tiny
-
-
-0
-2
-2
-miscComponents
-LED-4PIN-XZM2MRTNI55W
-
-
-0
-5
-4
-miscComponents
-LED-4PIN-XZM2MRTNI55W-Rounded
-
-
-0
-5
-4
-miscComponents
-LED-4PIN-XZM2MRTNI55W-small-Rounded
-
-
-0
-4
-4
-miscComponents
-LED-XZM2MRTNI59W-1-4PIN
-
-
-0
-4
-4
-miscComponents
-LED_0805
-LED 0805 smd package
-LED led 0805 SMD smd SMT smt smdled SMDLED smtled SMTLED
-0
-2
-2
-miscComponents
-LED_0805-Rounded
-LED 0805 smd package
-LED led 0805 SMD smd SMT smt smdled SMDLED smtled SMTLED
-0
-2
-2
-miscComponents
-LED_1206
-LED 1206 smd package
-LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED
-0
-2
-2
-miscComponents
-LED_1206_RC
-LED 1206 smd package
-LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED
-0
-2
-2
-miscComponents
-LOGO-face
-
-
-0
-0
-0
-miscComponents
-LOGO-face-mask
-
-
-0
-0
-0
-miscComponents
-MountingHole-10x5-oval
-
-
-0
-0
-0
-miscComponents
-MountingHole_1.8mm_M1.6_Pad_TopBottom
-Mounting Hole 2.2mm, M2, ISO7380
-mounting hole 2.2mm m2 iso7380
-0
-3
-1
-miscComponents
-MountingHole_1.8mm_M1.6_Pad_TopBottom_OD2.1mm
-Mounting Hole 2.2mm, M2, ISO7380
-mounting hole 2.2mm m2 iso7380
-0
-1
-0
-miscComponents
-Pad_circular_r3.5mm
-
-
-0
-1
-1
-miscComponents
-Photodiode-Vishay-VEMD2020X01
-
-
-0
-2
-2
-miscComponents
-Pin-Pogo-spring-P70-6000045R
-
-
-0
-1
-1
-miscComponents
-PinHeader_1x02_P1.27mm_Vertical
-Through hole straight pin header, 1x02, 1.27mm pitch, single row
-Through hole pin header THT 1x02 1.27mm single row
-0
-2
-2
-miscComponents
-Potentiometer-Bourns-TC33-3mm
-
-
-0
-3
-3
-miscComponents
-Potentiometer_Bourns_PTV09A-2_Horizontal
-Potentiometer, horizontally mounted, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16SV Single, Piher PC-16 Double, Piher PC-16 Triple, Piher T16H Single, Piher T16L Single, Piher T16H Double, Alps RK163 Single, Alps RK163 Double, Alps RK097 Single, Alps RK097 Double, Bourns PTV09A-2 Single with mounting sleve Single, Bourns PTV09A-1 with mounting sleve Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
-Potentiometer horizontal  Omeg PC16PU  Omeg PC16PU  Omeg PC16PU  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GH/249GH Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148A/149A Single with mounting plates  Vishay/Spectrol 148/149 Double  Vishay/Spectrol 148A/149A Double with mounting plates  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16SV Single  Piher PC-16 Double  Piher PC-16 Triple  Piher T16H Single  Piher T16L Single  Piher T16H Double  Alps RK163 Single  Alps RK163 Double  Alps RK097 Single  Alps RK097 Double  Bourns PTV09A-2 Single with mounting sleve Single  Bourns PTV09A-1 with mounting sleve Single
-0
-3
-3
-miscComponents
-R-POT-BOURNS-3362P
-
-
-0
-3
-3
-miscComponents
-R-POT-CT6EP204
-
-
-0
-3
-3
-miscComponents
-R_1206_HandSolder_Good
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-miscComponents
-Relay-DPDT-OMRON-G6K-2F-Y
-
-
-0
-8
-8
-miscComponents
-SC-89 SOT-563F
-SOT563
-SOT-563
-0
-6
-6
-miscComponents
-SDP816
-
-
-0
-4
-4
-miscComponents
-SMD_Standoff_M1.6_9774005633R
-
-
-0
-1
-1
-miscComponents
-SNT-6A(H)
-
-
-0
-6
-6
-miscComponents
-SW-8xSPST-218-8LPSTR
-
-
-0
-16
-16
-miscComponents
-SW-DIP-1-CHS-01TA
-
-
-0
-2
-2
-miscComponents
-SW-DIP-TE-x06-p1.27mm-GDH06SATR04
-
-
-0
-12
-12
-miscComponents
-SW-DP3T-JS203011CQN
-
-
-0
-8
-8
-miscComponents
-SW-DP3T-JS203011JCQN
-
-
-0
-8
-8
-miscComponents
-SW-SPST-CHS-01TA
-
-
-0
-2
-2
-miscComponents
-SW_PUSH_micro_mine
-
-
-0
-2
-2
-miscComponents
-SW_Slide-SPST-L101011MS01Q
-
-
-0
-2
-2
-miscComponents
-SolderJumper-2_P1.3mm_Bridged2Bar_Pad0.5x0.75mm
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
-net tie solder jumper bridged
-0
-2
-2
-miscComponents
-SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x0.75mm
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
-net tie solder jumper bridged
-0
-2
-2
-miscComponents
-SolderJumper-2_P1.3mm_Open_Pad0.5x0.75mm
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
-net tie solder jumper bridged
-0
-2
-2
-miscComponents
-TP-1206
-
-
-0
-1
-1
-miscComponents
-TP_1.6mmx0.8mm
-
-
-0
-1
-1
-miscComponents
-Teensy40Expanded
-
-
-0
-56
-56
-miscComponents
-TerminalBlock_bornier-2_P5.08mm
-simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
-terminal block bornier2
-0
-2
-2
-miscComponents
-TestPoint_Pad_2.5x2.5mm
-SMD rectangular pad as test Point, square 2.5mm side length
-test point SMD pad rectangle square
-0
-1
-1
-miscComponents
-This
-
-
-0
-0
-0
-miscComponents
-anchor
-
-
-0
-0
-0
-miscComponents
-batteryHolder-9V-Vertical-keystone-80
-
-
-0
-2
-1
-miscComponents
-conn-mine-5mm-7.5x10
-
-
-0
-2
-2
-miscComponents
-crystal-AMPM-1.2x1.6mm-4pin
-
-
-0
-4
-4
-miscComponents
-grumpyCat
-
-
-0
-0
-0
-miscComponents
-header-pin-TSM–126–02–L–DH–K-2.54p-2x20
-
-
-0
-20
-20
-miscComponents
-hole-0.5mm
-
-
-0
-1
-1
-miscComponents
-hole-servo-mount
-
-
-0
-1
-1
-miscComponents
-jump3
-Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
-resistor 0603
-0
-3
-3
-miscComponents
-logo-UC-CB
-
-
-0
-0
-0
-miscComponents
-logo-blooddrop
-
-
-0
-0
-0
-miscComponents
-logo-dasboot
-
-
-0
-0
-0
-miscComponents
-logo-dasboot-neg
-
-
-0
-0
-0
-miscComponents
-logo-dasboot_half
-
-
-0
-0
-0
-miscComponents
-logo-emailme
-
-
-0
-0
-0
-miscComponents
-logo-face-bones-silk
-
-
-0
-0
-0
-miscComponents
-logo-face-chase-silk
-
-
-0
-0
-0
-miscComponents
-logo-face-hulk
-
-
-0
-0
-0
-miscComponents
-logo-face-pretty-silk
-
-
-0
-0
-0
-miscComponents
-logo-gandalf
-
-
-0
-0
-0
-miscComponents
-logo-me
-
-
-0
-0
-0
-miscComponents
-logo-shrekt
-
-
-0
-0
-0
-miscComponents
-mousebite-double-r10arc
-
-
-0
-0
-0
-miscComponents
-mousebite-doublesided
-
-
-0
-12
-1
-miscComponents
-mousebite-single-r8arc
-
-
-0
-0
-0
-miscComponents
-mousebite-single-r10arc
-
-
-0
-0
-0
-miscComponents
-mousebite-singlesided
-
-
-0
-0
-0
-miscComponents
-mousebite-singlesided_copy
-
-
-0
-0
-0
-miscComponents
-moyster
-
-
-0
-0
-0
-miscComponents
-ourDearLordAndSaviour
-
-
-0
-0
-0
-miscComponents
-photo-diode-vishay-TEMD1020
-
-
-0
-2
-2
-miscComponents
-randomOpamp
-
-
-0
-5
-5
-miscComponents
-relay_RS-800-4546
-
-
-0
-4
-4
-miscComponents
-uc-logo
-
-
-0
-0
-0
-miscComponents
-uc-logo_small
-
-
-0
-0
-0
-miscComponents
-uc-logo_small-no-text
-
-
-0
-0
-0
