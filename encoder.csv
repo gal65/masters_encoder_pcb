@@ -1,7 +1,0 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"J1";"BM04B-SURS-TFLFSN";1;"BM04B-SURS-TFLFSN";;;
-2;"C2";"C_0603_1608Metric";1;"10uF";;;
-3;"U1";"SOIC127P600X175-8N";1;"AS5600-ASOT";;;
-4;"H1,H2";"MountingHole_2.7mm_M2.5_ISO7380";2;"MountingHole";;;
-5;"R1,R2";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"R";;;
-6;"C1";"C_0603_1608Metric";1;"100nF";;;
